@@ -1,2 +1,2 @@
-# gulp-vuz
+# gulp-vue
 

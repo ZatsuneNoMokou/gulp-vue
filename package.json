@@ -5,7 +5,7 @@
   "main": "gulp-vue.js",
   "scripts": {
   },
-  "repository": "git@gitlab.com:ZatsuneNoMokou/gulp-vue.git",
+  "repository": "git@github.com:ZatsuneNoMokou/gulp-vue.git",
   "keywords": [
     "gulp",
     "vue",
